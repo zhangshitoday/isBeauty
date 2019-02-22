@@ -93,4 +93,4 @@ for example:
 # More
 #### WeChat Official Accounts
 *Charles_pikachu*  
-![img](pikachu.jpg)
+![img](./material/pikachu.jpg)
