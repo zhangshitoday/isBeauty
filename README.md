@@ -25,8 +25,13 @@ Everybody is beautiful/handsome!!!
 - python 3.5+(have installed the neccessary dependencies)
 - Graphics: Tian XP
 
-# Model I used -- Remove the softmax and change the output size of FC(1000 → 1).
+# Model I used
+#### baseline
 ![img](./material/ResNet-18-Architecture.png)
+#### some changes
+```sh
+Remove the softmax and change the output size of FC(1000 → 1).
+```
 
 # Train
 #### Step1
