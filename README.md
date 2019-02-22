@@ -1,2 +1,2 @@
 # isBeauty
-Facial Beauty Prediction
+Facial Beauty Predictor
