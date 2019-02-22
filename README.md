@@ -6,7 +6,7 @@ Everybody is beautiful/handsome!!!
 ```
 
 # Introduction in Chinese
-
+https://mp.weixin.qq.com/s/5eVFPMiFA8VhYYlTHlNh1A
 
 # Dependencies
 - pytorch==0.4.1
