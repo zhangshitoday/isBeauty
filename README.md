@@ -1,8 +1,8 @@
 # isBeauty
 ```sh
-Facial Beauty Predictor
-If the predict result is not ideal, just take it as a joke~
-Everybody is beautiful/handsome!!!
+Facial Beauty Predictor based on SCUT-FBP5500-Database, If the predict result is not ideal, just take it as a joke~
+Everybody is beautiful/handsome~~~
+You can star this repository to keep track of the project if it's helpful for you, thank you for your support.
 ```
 
 # Introduction in Chinese
