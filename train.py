@@ -62,7 +62,7 @@ def train():
 			loss = criterion(preds, targets)
 			if config.ngpus > 1:
 				loss = loss.sum()
-			Logging('[INFO]: batch%d of epoch%d, loss is %.2f...' % (batch_i, epoch, loss.item()))
+			Logging('[INFO]: batch%d of epoch%d, loss is %.2f...' % (batch_i, epoch, loss.item()), config.logfile)
 			loss.backward()
 			optimizer.step()
 		if (epoch % config.save_interval == 0) and (epoch > 0):
