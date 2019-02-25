@@ -23,7 +23,7 @@ https://mp.weixin.qq.com/s/5eVFPMiFA8VhYYlTHlNh1A
 # Environment
 - Ubuntu 16.04(train) / Windows10(test)
 - python 3.5+(have installed the neccessary dependencies)
-- Graphics: Tian XP
+- Graphics: Tian XP(train) / 1050Ti(test)
 
 # Model I used
 #### baseline
